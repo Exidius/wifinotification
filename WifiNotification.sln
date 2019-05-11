@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WifiNotification", "WifiNotification\WifiNotification.csproj", "{5A323D68-EF65-4F85-A79F-A37D20378454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A323D68-EF65-4F85-A79F-A37D20378454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A323D68-EF65-4F85-A79F-A37D20378454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A323D68-EF65-4F85-A79F-A37D20378454}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5A323D68-EF65-4F85-A79F-A37D20378454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A323D68-EF65-4F85-A79F-A37D20378454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A323D68-EF65-4F85-A79F-A37D20378454}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC860711-8254-4693-A213-666EAD8DE8C5}
+	EndGlobalSection
+EndGlobal

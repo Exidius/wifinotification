@@ -1,0 +1,5 @@
+C:\Users\barad\source\repos\WifiNotification\WifiNotification\obj\Debug\44\MonoAndroid,Version=v4.4.AssemblyAttributes.cs
+C:\Users\barad\source\repos\WifiNotification\WifiNotification\obj\Debug\44\WifiNotification.nuget.stamp
+C:\Users\barad\source\repos\WifiNotification\WifiNotification\obj\Debug\44\WifiNotification.csprojAssemblyReference.cache
+C:\Users\barad\source\repos\WifiNotification\WifiNotification\obj\Debug\44\libraryimports.cache.stamp
+C:\Users\barad\source\repos\WifiNotification\WifiNotification\obj\Debug\44\res.flag

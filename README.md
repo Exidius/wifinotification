@@ -1,3 +1,3 @@
 # WiFi Notification
 
-Simple app to show an ongoing notification when wifi is turned off.
+Simple Xamarin app to show an ongoing notification as a reminder when wifi is turned off.
